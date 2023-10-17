@@ -479,4 +479,15 @@
     "module_number": 12,
     "certification": "paid"
   }
+,
+  {
+    "id": 90,
+    "platform": "educative",
+    "free_course": "no",
+    "course_name": "Integration with YouTube Data API in JavaScript",
+    "link": "https://www.educative.io/courses/integration-with-youtube-data-api-in-javascript",
+    "difficulty": "beginner",
+    "module_number": 21,
+    "certification": "paid"
+  }
 ]
