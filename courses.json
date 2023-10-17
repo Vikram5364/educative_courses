@@ -484,10 +484,10 @@
     "id": 90,
     "platform": "educative",
     "free_course": "no",
-    "course_name": "Integration with YouTube Data API in JavaScript",
-    "link": "https://www.educative.io/courses/integration-with-youtube-data-api-in-javascript",
+    "course_name": "React and GraphQL: Build an E-commerce App with Hygraph",
+    "link": "https://www.educative.io/courses/react-and-graphql-build-an-e-commerce-app-with-hygraph",
     "difficulty": "beginner",
-    "module_number": 21,
+    "module_number": 8,
     "certification": "paid"
-  }
+  },
 ]
